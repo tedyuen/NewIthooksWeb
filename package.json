@@ -1,0 +1,42 @@
+{
+  "name": "ithooks",
+  "version": "1.0.0",
+  "description": "Shanghai I.T.Hooks Co.Ltd All Rights Reserved.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ted Yuen",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-preset-es2015": "^6.22.0",
+    "del": "^2.2.2",
+    "gulp": "^3.9.1",
+    "gulp-babel": "^6.1.2",
+    "gulp-browserify": "^0.5.1",
+    "gulp-clean-css": "^2.3.2",
+    "gulp-concat": "^2.6.1",
+    "gulp-obfuscate": "^0.2.9",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^3.1.0",
+    "gulp-uglify": "^2.0.0"
+  },
+  "dependencies": {
+    "angular": "^1.6.1",
+    "angular-animate": "^1.6.1",
+    "angular-baidu-map": "^3.1.0",
+    "angular-cookies": "^1.6.1",
+    "angular-route": "^1.6.1",
+    "angular-ui-router": "^0.4.2",
+    "bootstrap": "^3.3.7",
+    "bootstrap-datepicker": "^1.6.4",
+    "dropify": "^0.2.1",
+    "jquery": "^3.1.1",
+    "jquery-slimscroll": "^1.3.8",
+    "jquery-toast-plugin": "^1.3.1",
+    "metismenu": "^2.6.1",
+    "mockjs": "^1.0.1-beta3",
+    "sweetalert": "^1.1.3",
+    "waypoints": "^4.0.1"
+  }
+}
