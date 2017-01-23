@@ -10,3 +10,5 @@ test/bower_components
 *.iml
 .DS_Store
 .project
+app/out/css/all.min.css
+app/out/js/all.min.js
